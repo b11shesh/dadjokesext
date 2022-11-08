@@ -1,0 +1,10 @@
+{
+    "name": "Chuck Norris Jokes",
+    "description":"Get new jokes Everyday",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"jokes.html",
+        "default_icon":"fav.png"
+    }
+}
